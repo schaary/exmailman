@@ -1,0 +1,2 @@
+defmodule Exmailman do
+end
