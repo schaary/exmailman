@@ -1,8 +1,8 @@
 # Mailman und Elixir
 
 Dieses Projekt untersucht die Funktionsweise von
-(Mailman)[https://github.com/kamilc/mailman]. Ziel ist es dabei einkommende
-Mails zu parse und in die Grundebestandteile 
+[Mailman](https://github.com/kamilc/mailman). Ziel ist es dabei einkommende
+Mails zu parsen und in die Grundebestandteile 
 
 * to: 
 * from:
